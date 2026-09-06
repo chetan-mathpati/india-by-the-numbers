@@ -2,6 +2,8 @@
 
 Six lenses. One country.
 
+![India By the Numbers dashboard](india_by_the_numbers_preview.png)
+
 India By the Numbers is an Excel dashboard built using public data to look at six areas of India:
 
 1. Economy
